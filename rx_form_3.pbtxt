@@ -1,0 +1,15 @@
+item {
+  name: "checkbox1"
+  id: 1
+  display_name: "checkbox1"
+}
+item {
+  name: "comments1"
+  id: 2
+  display_name: "comments1"
+}
+item {
+  name: "barcode1"
+  id: 3
+  display_name: "barcode1"
+}
